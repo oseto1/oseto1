@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oseto1
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently learning Devop
+- 🌱 I’m  Devop/cloud Engineer
 - 💞️ I’m looking to collaborate on a solid infrastructure in the cloud
 - 📫 How to reach me on oseto1@yahoo.com
 
